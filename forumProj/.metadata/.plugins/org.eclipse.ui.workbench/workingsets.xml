@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1505150034059_1" label="CAPIPortalForumMain" name="CAPIPortalForumMain">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CAPIPortalForumMain" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CAPIPortalFormBeans" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CAPIPortalForum" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1505146562261_0" label="Window Working Set" name="Aggregate for window 1505146562260"/>
+</workingSetManager>
